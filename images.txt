@@ -3,3 +3,4 @@
 --platform=linux/arm64 xiaoyaliu/alist
 
 idootop/mi-gpt:latest
+nginx:latest

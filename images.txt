@@ -1,6 +1,11 @@
 
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 
-idootop/mi-gpt:latest
-nginx:latest
+#idootop/mi-gpt:latest
+#nginx:latest
+
+--platform=linux/x86
+
+apache/celeborn:latest
+apache/celeborn:0.5.4
